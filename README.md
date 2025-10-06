@@ -1,3 +1,7 @@
+Assignment number : 01
+Group number : 7
+Group member names : Jaskaran Singh , Ajmal 
+
 # Linux Assignment 1 – Template:
 This repo is just a "template" to be used by my students for the `**Linux Lab Assignment1**`.
 
@@ -54,3 +58,4 @@ linux-assignment1/
 ├── .gitignore
 └── README.md
 ```
+
